@@ -1,0 +1,52 @@
+﻿2014/12/09 18:38:12 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\未菜里\Documents\応用プログラミングⅠ\samegame\samegame\samegame.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\samegame.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(193): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(194): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 'itoa' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(208): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(210): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(212): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(216): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(218): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(220): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(257): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(259): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(261): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>c:\users\未菜里\documents\応用プログラミングⅰ\samegame\samegame\source.cpp(264): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\未菜里\Documents\応用プログラミングⅠ\samegame\Debug\samegame.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\samegame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\未菜里\Documents\応用プログラミングⅠ\samegame\Debug\samegame.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\未菜里\Documents\応用プログラミングⅠ\samegame\Debug\samegame.lib" /MACHINE:X86 Debug\source.obj
+         samegame.vcxproj -> C:\Users\未菜里\Documents\応用プログラミングⅠ\samegame\Debug\samegame.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\未菜里\Documents\応用プログラミングⅠ\samegame\Debug\samegame.exe;#1" /manifest Debug\samegame.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "Debug\samegame.unsuccessfulbuild" を削除しています。
+         "Debug\samegame.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\未菜里\Documents\応用プログラミングⅠ\samegame\samegame\samegame.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:06.95
